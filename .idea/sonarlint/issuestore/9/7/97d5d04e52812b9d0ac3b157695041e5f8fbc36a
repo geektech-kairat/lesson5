@@ -1,0 +1,17 @@
+
+O
+java:S1444"2Make this "public static mainActivity" field final(’æç8Ìüé½ı.
+O
+java:S1128"3Remove this unused import 'android.content.Intent'.(³ğ‹G8´é½ı.
+T
+java:S1128"7Remove this unused import 'android.widget.AdapterView'.(¶¾éæ8¦Üâ›ı.
+8
+java:S1700"Rename field "mainActivity"(’æç8âåó½ı.
+P
+java:S1128"3Remove this unused import 'android.widget.Adapter'.(Ùƒùê8‹ı¦“ı.
+P
+java:S1128".Remove this unused import 'android.view.View'.(Ø½­äşÿÿÿÿ8îÄÂ™ı.
+X
+java:S2696&"6Make the enclosing method "static" or remove this set.(Ù²£àÿÿÿÿÿ8æŸô½ı.
+u
+java:S1104"XMake mainActivity a static final constant or non-public and provide accessors if needed.(’æç8Ğ®ê½ı.
